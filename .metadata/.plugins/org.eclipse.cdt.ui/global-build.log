@@ -1,0 +1,1012 @@
+Configuring in: /home/tarek/Desktop/mpu/managed_components/espressif__mpu6050/build/cmake.run.linux.x86_64.Local
+cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -G Ninja /home/tarek/Desktop/mpu/managed_components/espressif__mpu6050
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+CMake Error at CMakeLists.txt:1 (idf_component_register):
+-- Configuring incomplete, errors occurred!
+See also "/home/tarek/Desktop/mpu/managed_components/espressif__mpu6050/build/cmake.run.linux.x86_64.Local/CMakeFiles/CMakeOutput.log".
+  Unknown CMake command "idf_component_register".
+
+
+CMake Warning (dev) in CMakeLists.txt:
+  No cmake_minimum_required command is present.  A line of code such as
+
+    cmake_minimum_required(VERSION 3.22)
+
+  should be added at the top of the file.  The version specified may be lower
+  if you wish to support older CMake versions for this project.  For more
+  information run "cmake --help-policy CMP0000".
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+cmake --build . --target all
+ninja: error: loading 'build.ninja': No such file or directory
+Build complete (1 errors, 0 warnings): /home/tarek/Desktop/mpu/managed_components/espressif__mpu6050/build/cmake.run.linux.x86_64.Local
+Build not configured correctly
+Build not configured correctly
+Configuring in: /home/tarek/Desktop/mpu/main/build/cmake.run.linux.x86_64.Local
+cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -G Ninja /home/tarek/Desktop/mpu/main
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+CMake Error at CMakeLists.txt:1 (idf_component_register):
+-- Configuring incomplete, errors occurred!
+See also "/home/tarek/Desktop/mpu/main/build/cmake.run.linux.x86_64.Local/CMakeFiles/CMakeOutput.log".
+  Unknown CMake command "idf_component_register".
+
+
+CMake Warning (dev) in CMakeLists.txt:
+  No cmake_minimum_required command is present.  A line of code such as
+
+    cmake_minimum_required(VERSION 3.22)
+
+  should be added at the top of the file.  The version specified may be lower
+  if you wish to support older CMake versions for this project.  For more
+  information run "cmake --help-policy CMP0000".
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+cmake --build . --target all
+ninja: error: loading 'build.ninja': No such file or directory
+Build complete (1 errors, 0 warnings): /home/tarek/Desktop/mpu/main/build/cmake.run.linux.x86_64.Local
+Configuring in: /home/tarek/Desktop/mpu/main/build/cmake.run.linux.x86_64.Local
+cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -G Ninja /home/tarek/Desktop/mpu/main
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Error at CMakeLists.txt:1 (idf_component_register):
+-- Configuring incomplete, errors occurred!
+See also "/home/tarek/Desktop/mpu/main/build/cmake.run.linux.x86_64.Local/CMakeFiles/CMakeOutput.log".
+  Unknown CMake command "idf_component_register".
+
+
+CMake Warning (dev) in CMakeLists.txt:
+  No cmake_minimum_required command is present.  A line of code such as
+
+    cmake_minimum_required(VERSION 3.22)
+
+  should be added at the top of the file.  The version specified may be lower
+  if you wish to support older CMake versions for this project.  For more
+  information run "cmake --help-policy CMP0000".
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+cmake --build . --target all
+ninja: error: loading 'build.ninja': No such file or directory
+Build complete (1 errors, 0 warnings): /home/tarek/Desktop/mpu/main/build/cmake.run.linux.x86_64.Local
+Configuring in: /home/tarek/Desktop/mpu/main/build/cmake.run.linux.x86_64.Local
+cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -G Ninja /home/tarek/Desktop/mpu/main
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Error at CMakeLists.txt:1 (idf_component_register):
+-- Configuring incomplete, errors occurred!
+See also "/home/tarek/Desktop/mpu/main/build/cmake.run.linux.x86_64.Local/CMakeFiles/CMakeOutput.log".
+  Unknown CMake command "idf_component_register".
+
+
+CMake Warning (dev) in CMakeLists.txt:
+  No cmake_minimum_required command is present.  A line of code such as
+
+    cmake_minimum_required(VERSION 3.22)
+
+  should be added at the top of the file.  The version specified may be lower
+  if you wish to support older CMake versions for this project.  For more
+  information run "cmake --help-policy CMP0000".
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+cmake --build . --target all
+ninja: error: loading 'build.ninja': No such file or directory
+Build complete (1 errors, 0 warnings): /home/tarek/Desktop/mpu/main/build/cmake.run.linux.x86_64.Local
+Configuring in: /home/tarek/Desktop/mpu/main/build/cmake.run.linux.x86_64.Local
+cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -G Ninja /home/tarek/Desktop/mpu/main
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Error at CMakeLists.txt:1 (idf_component_register):
+-- Configuring incomplete, errors occurred!
+See also "/home/tarek/Desktop/mpu/main/build/cmake.run.linux.x86_64.Local/CMakeFiles/CMakeOutput.log".
+  Unknown CMake command "idf_component_register".
+
+
+CMake Warning (dev) in CMakeLists.txt:
+  No cmake_minimum_required command is present.  A line of code such as
+
+    cmake_minimum_required(VERSION 3.22)
+
+  should be added at the top of the file.  The version specified may be lower
+  if you wish to support older CMake versions for this project.  For more
+  information run "cmake --help-policy CMP0000".
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+cmake --build . --target all
+ninja: error: loading 'build.ninja': No such file or directory
+Build complete (1 errors, 0 warnings): /home/tarek/Desktop/mpu/main/build/cmake.run.linux.x86_64.Local
+Configuring in: /home/tarek/Desktop/mpu/managed_components/espressif__mpu6050/build/cmake.run.linux.x86_64.Local
+cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -G Ninja /home/tarek/Desktop/mpu/managed_components/espressif__mpu6050
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Error at CMakeLists.txt:1 (idf_component_register):
+-- Configuring incomplete, errors occurred!
+See also "/home/tarek/Desktop/mpu/managed_components/espressif__mpu6050/build/cmake.run.linux.x86_64.Local/CMakeFiles/CMakeOutput.log".
+  Unknown CMake command "idf_component_register".
+
+
+CMake Warning (dev) in CMakeLists.txt:
+  No cmake_minimum_required command is present.  A line of code such as
+
+    cmake_minimum_required(VERSION 3.22)
+
+  should be added at the top of the file.  The version specified may be lower
+  if you wish to support older CMake versions for this project.  For more
+  information run "cmake --help-policy CMP0000".
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+cmake --build . --target all
+ninja: error: loading 'build.ninja': No such file or directory
+Build complete (1 errors, 0 warnings): /home/tarek/Desktop/mpu/managed_components/espressif__mpu6050/build/cmake.run.linux.x86_64.Local
+Configuring in: /home/tarek/Desktop/mpu/managed_components/espressif__mpu6050/build/cmake.run.linux.x86_64.Local
+cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -G Ninja /home/tarek/Desktop/mpu/managed_components/espressif__mpu6050
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring incomplete, errors occurred!
+CMake Error at CMakeLists.txt:1 (idf_component_register):
+See also "/home/tarek/Desktop/mpu/managed_components/espressif__mpu6050/build/cmake.run.linux.x86_64.Local/CMakeFiles/CMakeOutput.log".
+  Unknown CMake command "idf_component_register".
+
+
+CMake Warning (dev) in CMakeLists.txt:
+  No cmake_minimum_required command is present.  A line of code such as
+
+    cmake_minimum_required(VERSION 3.22)
+
+  should be added at the top of the file.  The version specified may be lower
+  if you wish to support older CMake versions for this project.  For more
+  information run "cmake --help-policy CMP0000".
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+cmake --build . --target all
+ninja: error: loading 'build.ninja': No such file or directory
+Build complete (1 errors, 0 warnings): /home/tarek/Desktop/mpu/managed_components/espressif__mpu6050/build/cmake.run.linux.x86_64.Local
+Configuring in: /home/tarek/Desktop/mpu/managed_components/espressif__mpu6050/build/cmake.run.linux.x86_64.Local
+cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -G Ninja /home/tarek/Desktop/mpu/managed_components/espressif__mpu6050
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring incomplete, errors occurred!
+CMake Error at CMakeLists.txt:1 (idf_component_register):
+See also "/home/tarek/Desktop/mpu/managed_components/espressif__mpu6050/build/cmake.run.linux.x86_64.Local/CMakeFiles/CMakeOutput.log".
+  Unknown CMake command "idf_component_register".
+
+
+CMake Warning (dev) in CMakeLists.txt:
+  No cmake_minimum_required command is present.  A line of code such as
+
+    cmake_minimum_required(VERSION 3.22)
+
+  should be added at the top of the file.  The version specified may be lower
+  if you wish to support older CMake versions for this project.  For more
+  information run "cmake --help-policy CMP0000".
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+cmake --build . --target all
+ninja: error: loading 'build.ninja': No such file or directory
+Build complete (1 errors, 0 warnings): /home/tarek/Desktop/mpu/managed_components/espressif__mpu6050/build/cmake.run.linux.x86_64.Local
+Configuring in: /home/tarek/Desktop/mpu/managed_components/espressif__mpu6050/build/cmake.run.linux.x86_64.Local
+cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -G Ninja /home/tarek/Desktop/mpu/managed_components/espressif__mpu6050
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Error at CMakeLists.txt:1 (idf_component_register):
+-- Configuring incomplete, errors occurred!
+See also "/home/tarek/Desktop/mpu/managed_components/espressif__mpu6050/build/cmake.run.linux.x86_64.Local/CMakeFiles/CMakeOutput.log".
+  Unknown CMake command "idf_component_register".
+
+
+CMake Warning (dev) in CMakeLists.txt:
+  No cmake_minimum_required command is present.  A line of code such as
+
+    cmake_minimum_required(VERSION 3.22)
+
+  should be added at the top of the file.  The version specified may be lower
+  if you wish to support older CMake versions for this project.  For more
+  information run "cmake --help-policy CMP0000".
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+cmake --build . --target all
+ninja: error: loading 'build.ninja': No such file or directory
+Build complete (1 errors, 0 warnings): /home/tarek/Desktop/mpu/managed_components/espressif__mpu6050/build/cmake.run.linux.x86_64.Local
+Configuring in: /home/tarek/Desktop/mpu/managed_components/espressif__mpu6050/build/cmake.run.linux.x86_64.Local
+cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -G Ninja /home/tarek/Desktop/mpu/managed_components/espressif__mpu6050
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Error at CMakeLists.txt:1 (idf_component_register):
+-- Configuring incomplete, errors occurred!
+See also "/home/tarek/Desktop/mpu/managed_components/espressif__mpu6050/build/cmake.run.linux.x86_64.Local/CMakeFiles/CMakeOutput.log".
+  Unknown CMake command "idf_component_register".
+
+
+CMake Warning (dev) in CMakeLists.txt:
+  No cmake_minimum_required command is present.  A line of code such as
+
+    cmake_minimum_required(VERSION 3.22)
+
+  should be added at the top of the file.  The version specified may be lower
+  if you wish to support older CMake versions for this project.  For more
+  information run "cmake --help-policy CMP0000".
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+cmake --build . --target all
+ninja: error: loading 'build.ninja': No such file or directory
+Build complete (1 errors, 0 warnings): /home/tarek/Desktop/mpu/managed_components/espressif__mpu6050/build/cmake.run.linux.x86_64.Local
+Configuring in: /home/tarek/Desktop/mpu/managed_components/espressif__mpu6050/build/cmake.run.linux.x86_64.Local
+cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -G Ninja /home/tarek/Desktop/mpu/managed_components/espressif__mpu6050
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Error at CMakeLists.txt:1 (idf_component_register):
+-- Configuring incomplete, errors occurred!
+See also "/home/tarek/Desktop/mpu/managed_components/espressif__mpu6050/build/cmake.run.linux.x86_64.Local/CMakeFiles/CMakeOutput.log".
+  Unknown CMake command "idf_component_register".
+
+
+CMake Warning (dev) in CMakeLists.txt:
+  No cmake_minimum_required command is present.  A line of code such as
+
+    cmake_minimum_required(VERSION 3.22)
+
+  should be added at the top of the file.  The version specified may be lower
+  if you wish to support older CMake versions for this project.  For more
+  information run "cmake --help-policy CMP0000".
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+cmake --build . --target all
+ninja: error: loading 'build.ninja': No such file or directory
+Build complete (1 errors, 0 warnings): /home/tarek/Desktop/mpu/managed_components/espressif__mpu6050/build/cmake.run.linux.x86_64.Local
+Configuring in: /home/tarek/Desktop/mpu/managed_components/espressif__mpu6050/build/cmake.run.linux.x86_64.Local
+cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -G Ninja /home/tarek/Desktop/mpu/managed_components/espressif__mpu6050
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring incomplete, errors occurred!
+CMake Error at CMakeLists.txt:1 (idf_component_register):
+See also "/home/tarek/Desktop/mpu/managed_components/espressif__mpu6050/build/cmake.run.linux.x86_64.Local/CMakeFiles/CMakeOutput.log".
+  Unknown CMake command "idf_component_register".
+
+
+CMake Warning (dev) in CMakeLists.txt:
+  No cmake_minimum_required command is present.  A line of code such as
+
+    cmake_minimum_required(VERSION 3.22)
+
+  should be added at the top of the file.  The version specified may be lower
+  if you wish to support older CMake versions for this project.  For more
+  information run "cmake --help-policy CMP0000".
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+cmake --build . --target all
+ninja: error: loading 'build.ninja': No such file or directory
+Build complete (1 errors, 0 warnings): /home/tarek/Desktop/mpu/managed_components/espressif__mpu6050/build/cmake.run.linux.x86_64.Local
+Configuring in: /home/tarek/Desktop/mpu/managed_components/espressif__mpu6050/build/cmake.run.linux.x86_64.Local
+cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -G Ninja /home/tarek/Desktop/mpu/managed_components/espressif__mpu6050
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Error at CMakeLists.txt:1 (idf_component_register):
+-- Configuring incomplete, errors occurred!
+See also "/home/tarek/Desktop/mpu/managed_components/espressif__mpu6050/build/cmake.run.linux.x86_64.Local/CMakeFiles/CMakeOutput.log".
+  Unknown CMake command "idf_component_register".
+
+
+CMake Warning (dev) in CMakeLists.txt:
+  No cmake_minimum_required command is present.  A line of code such as
+
+    cmake_minimum_required(VERSION 3.22)
+
+  should be added at the top of the file.  The version specified may be lower
+  if you wish to support older CMake versions for this project.  For more
+  information run "cmake --help-policy CMP0000".
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+cmake --build . --target all
+ninja: error: loading 'build.ninja': No such file or directory
+Build complete (1 errors, 0 warnings): /home/tarek/Desktop/mpu/managed_components/espressif__mpu6050/build/cmake.run.linux.x86_64.Local
+Configuring in: /home/tarek/Desktop/mpu/managed_components/espressif__mpu6050/build/cmake.run.linux.x86_64.Local
+cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -G Ninja /home/tarek/Desktop/mpu/managed_components/espressif__mpu6050
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Error at CMakeLists.txt:1 (idf_component_register):
+-- Configuring incomplete, errors occurred!
+See also "/home/tarek/Desktop/mpu/managed_components/espressif__mpu6050/build/cmake.run.linux.x86_64.Local/CMakeFiles/CMakeOutput.log".
+  Unknown CMake command "idf_component_register".
+
+
+CMake Warning (dev) in CMakeLists.txt:
+  No cmake_minimum_required command is present.  A line of code such as
+
+    cmake_minimum_required(VERSION 3.22)
+
+  should be added at the top of the file.  The version specified may be lower
+  if you wish to support older CMake versions for this project.  For more
+  information run "cmake --help-policy CMP0000".
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+cmake --build . --target all
+ninja: error: loading 'build.ninja': No such file or directory
+Build complete (1 errors, 0 warnings): /home/tarek/Desktop/mpu/managed_components/espressif__mpu6050/build/cmake.run.linux.x86_64.Local
+Configuring in: /home/tarek/Desktop/mpu/managed_components/espressif__mpu6050/build/cmake.run.linux.x86_64.Local
+cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -G Ninja /home/tarek/Desktop/mpu/managed_components/espressif__mpu6050
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Error at CMakeLists.txt:1 (idf_component_register):
+-- Configuring incomplete, errors occurred!
+See also "/home/tarek/Desktop/mpu/managed_components/espressif__mpu6050/build/cmake.run.linux.x86_64.Local/CMakeFiles/CMakeOutput.log".
+  Unknown CMake command "idf_component_register".
+
+
+CMake Warning (dev) in CMakeLists.txt:
+  No cmake_minimum_required command is present.  A line of code such as
+
+    cmake_minimum_required(VERSION 3.22)
+
+  should be added at the top of the file.  The version specified may be lower
+  if you wish to support older CMake versions for this project.  For more
+  information run "cmake --help-policy CMP0000".
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+cmake --build . --target all
+ninja: error: loading 'build.ninja': No such file or directory
+Build complete (1 errors, 0 warnings): /home/tarek/Desktop/mpu/managed_components/espressif__mpu6050/build/cmake.run.linux.x86_64.Local
+Configuring in: /home/tarek/Desktop/mpu/managed_components/espressif__mpu6050/build/cmake.run.linux.x86_64.Local
+cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -G Ninja /home/tarek/Desktop/mpu/managed_components/espressif__mpu6050
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Error at CMakeLists.txt:1 (idf_component_register):
+-- Configuring incomplete, errors occurred!
+See also "/home/tarek/Desktop/mpu/managed_components/espressif__mpu6050/build/cmake.run.linux.x86_64.Local/CMakeFiles/CMakeOutput.log".
+  Unknown CMake command "idf_component_register".
+
+
+CMake Warning (dev) in CMakeLists.txt:
+  No cmake_minimum_required command is present.  A line of code such as
+
+    cmake_minimum_required(VERSION 3.22)
+
+  should be added at the top of the file.  The version specified may be lower
+  if you wish to support older CMake versions for this project.  For more
+  information run "cmake --help-policy CMP0000".
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+cmake --build . --target all
+ninja: error: loading 'build.ninja': No such file or directory
+Build complete (1 errors, 0 warnings): /home/tarek/Desktop/mpu/managed_components/espressif__mpu6050/build/cmake.run.linux.x86_64.Local
+Configuring in: /home/tarek/Desktop/mpu/managed_components/espressif__mpu6050/build/cmake.run.linux.x86_64.Local
+cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -G Ninja /home/tarek/Desktop/mpu/managed_components/espressif__mpu6050
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Error at CMakeLists.txt:1 (idf_component_register):
+-- Configuring incomplete, errors occurred!
+See also "/home/tarek/Desktop/mpu/managed_components/espressif__mpu6050/build/cmake.run.linux.x86_64.Local/CMakeFiles/CMakeOutput.log".
+  Unknown CMake command "idf_component_register".
+
+
+CMake Warning (dev) in CMakeLists.txt:
+  No cmake_minimum_required command is present.  A line of code such as
+
+    cmake_minimum_required(VERSION 3.22)
+
+  should be added at the top of the file.  The version specified may be lower
+  if you wish to support older CMake versions for this project.  For more
+  information run "cmake --help-policy CMP0000".
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+cmake --build . --target all
+ninja: error: loading 'build.ninja': No such file or directory
+Build complete (1 errors, 0 warnings): /home/tarek/Desktop/mpu/managed_components/espressif__mpu6050/build/cmake.run.linux.x86_64.Local
+Configuring in: /home/tarek/Desktop/mpu/managed_components/espressif__mpu6050/build/cmake.run.linux.x86_64.Local
+cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -G Ninja /home/tarek/Desktop/mpu/managed_components/espressif__mpu6050
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Error at CMakeLists.txt:1 (idf_component_register):
+-- Configuring incomplete, errors occurred!
+See also "/home/tarek/Desktop/mpu/managed_components/espressif__mpu6050/build/cmake.run.linux.x86_64.Local/CMakeFiles/CMakeOutput.log".
+  Unknown CMake command "idf_component_register".
+
+
+CMake Warning (dev) in CMakeLists.txt:
+  No cmake_minimum_required command is present.  A line of code such as
+
+    cmake_minimum_required(VERSION 3.22)
+
+  should be added at the top of the file.  The version specified may be lower
+  if you wish to support older CMake versions for this project.  For more
+  information run "cmake --help-policy CMP0000".
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+cmake --build . --target all
+ninja: error: loading 'build.ninja': No such file or directory
+Build complete (1 errors, 0 warnings): /home/tarek/Desktop/mpu/managed_components/espressif__mpu6050/build/cmake.run.linux.x86_64.Local
+Configuring in: /home/tarek/Desktop/mpu/managed_components/espressif__mpu6050/build/cmake.run.linux.x86_64.Local
+cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -G Ninja /home/tarek/Desktop/mpu/managed_components/espressif__mpu6050
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Error at CMakeLists.txt:1 (idf_component_register):
+-- Configuring incomplete, errors occurred!
+See also "/home/tarek/Desktop/mpu/managed_components/espressif__mpu6050/build/cmake.run.linux.x86_64.Local/CMakeFiles/CMakeOutput.log".
+  Unknown CMake command "idf_component_register".
+
+
+CMake Warning (dev) in CMakeLists.txt:
+  No cmake_minimum_required command is present.  A line of code such as
+
+    cmake_minimum_required(VERSION 3.22)
+
+  should be added at the top of the file.  The version specified may be lower
+  if you wish to support older CMake versions for this project.  For more
+  information run "cmake --help-policy CMP0000".
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+cmake --build . --target all
+ninja: error: loading 'build.ninja': No such file or directory
+Build complete (1 errors, 0 warnings): /home/tarek/Desktop/mpu/managed_components/espressif__mpu6050/build/cmake.run.linux.x86_64.Local
+Configuring in: /home/tarek/Desktop/mpu/managed_components/espressif__mpu6050/build/cmake.run.linux.x86_64.Local
+cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -G Ninja /home/tarek/Desktop/mpu/managed_components/espressif__mpu6050
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Error at CMakeLists.txt:1 (idf_component_register):
+-- Configuring incomplete, errors occurred!
+See also "/home/tarek/Desktop/mpu/managed_components/espressif__mpu6050/build/cmake.run.linux.x86_64.Local/CMakeFiles/CMakeOutput.log".
+  Unknown CMake command "idf_component_register".
+
+
+CMake Warning (dev) in CMakeLists.txt:
+  No cmake_minimum_required command is present.  A line of code such as
+
+    cmake_minimum_required(VERSION 3.22)
+
+  should be added at the top of the file.  The version specified may be lower
+  if you wish to support older CMake versions for this project.  For more
+  information run "cmake --help-policy CMP0000".
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+cmake --build . --target all
+ninja: error: loading 'build.ninja': No such file or directory
+Build complete (1 errors, 0 warnings): /home/tarek/Desktop/mpu/managed_components/espressif__mpu6050/build/cmake.run.linux.x86_64.Local
+Configuring in: /home/tarek/Desktop/mpu/managed_components/espressif__mpu6050/build/cmake.run.linux.x86_64.Local
+cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -G Ninja /home/tarek/Desktop/mpu/managed_components/espressif__mpu6050
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Error at CMakeLists.txt:1 (idf_component_register):
+-- Configuring incomplete, errors occurred!
+See also "/home/tarek/Desktop/mpu/managed_components/espressif__mpu6050/build/cmake.run.linux.x86_64.Local/CMakeFiles/CMakeOutput.log".
+  Unknown CMake command "idf_component_register".
+
+
+CMake Warning (dev) in CMakeLists.txt:
+  No cmake_minimum_required command is present.  A line of code such as
+
+    cmake_minimum_required(VERSION 3.22)
+
+  should be added at the top of the file.  The version specified may be lower
+  if you wish to support older CMake versions for this project.  For more
+  information run "cmake --help-policy CMP0000".
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+cmake --build . --target all
+ninja: error: loading 'build.ninja': No such file or directory
+Build complete (1 errors, 0 warnings): /home/tarek/Desktop/mpu/managed_components/espressif__mpu6050/build/cmake.run.linux.x86_64.Local
+Configuring in: /home/tarek/Desktop/mpu/managed_components/espressif__mpu6050/build/cmake.run.linux.x86_64.Local
+cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -G Ninja /home/tarek/Desktop/mpu/managed_components/espressif__mpu6050
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring incomplete, errors occurred!
+See also "/home/tarek/Desktop/mpu/managed_components/espressif__mpu6050/build/cmake.run.linux.x86_64.Local/CMakeFiles/CMakeOutput.log".
+CMake Error at CMakeLists.txt:1 (idf_component_register):
+  Unknown CMake command "idf_component_register".
+
+
+CMake Warning (dev) in CMakeLists.txt:
+  No cmake_minimum_required command is present.  A line of code such as
+
+    cmake_minimum_required(VERSION 3.22)
+
+  should be added at the top of the file.  The version specified may be lower
+  if you wish to support older CMake versions for this project.  For more
+  information run "cmake --help-policy CMP0000".
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+cmake --build . --target all
+ninja: error: loading 'build.ninja': No such file or directory
+Build complete (1 errors, 0 warnings): /home/tarek/Desktop/mpu/managed_components/espressif__mpu6050/build/cmake.run.linux.x86_64.Local
+Configuring in: /home/tarek/Desktop/mpu/managed_components/espressif__mpu6050/build/cmake.run.linux.x86_64.Local
+cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -G Ninja /home/tarek/Desktop/mpu/managed_components/espressif__mpu6050
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Error at CMakeLists.txt:1 (idf_component_register):
+-- Configuring incomplete, errors occurred!
+See also "/home/tarek/Desktop/mpu/managed_components/espressif__mpu6050/build/cmake.run.linux.x86_64.Local/CMakeFiles/CMakeOutput.log".
+  Unknown CMake command "idf_component_register".
+
+
+CMake Warning (dev) in CMakeLists.txt:
+  No cmake_minimum_required command is present.  A line of code such as
+
+    cmake_minimum_required(VERSION 3.22)
+
+  should be added at the top of the file.  The version specified may be lower
+  if you wish to support older CMake versions for this project.  For more
+  information run "cmake --help-policy CMP0000".
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+cmake --build . --target all
+ninja: error: loading 'build.ninja': No such file or directory
+Build complete (1 errors, 0 warnings): /home/tarek/Desktop/mpu/managed_components/espressif__mpu6050/build/cmake.run.linux.x86_64.Local
+Configuring in: /home/tarek/Desktop/mpu/main/build/cmake.run.linux.x86_64.Local
+cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -G Ninja /home/tarek/Desktop/mpu/main
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Error at CMakeLists.txt:1 (idf_component_register):
+  Unknown CMake command "idf_component_register".
+
+
+CMake Warning (dev) in CMakeLists.txt:
+  No cmake_minimum_required command is present.  A line of code such as
+
+    cmake_minimum_required(VERSION 3.22)
+
+  should be added at the top of the file.  The version specified may be lower
+  if you wish to support older CMake versions for this project.  For more
+  information run "cmake --help-policy CMP0000".
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring incomplete, errors occurred!
+See also "/home/tarek/Desktop/mpu/main/build/cmake.run.linux.x86_64.Local/CMakeFiles/CMakeOutput.log".
+cmake --build . --target all
+ninja: error: loading 'build.ninja': No such file or directory
+Build complete (1 errors, 0 warnings): /home/tarek/Desktop/mpu/main/build/cmake.run.linux.x86_64.Local
+Configuring in: /home/tarek/Desktop/mpu/main/build/cmake.run.linux.x86_64.Local
+cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -G Ninja /home/tarek/Desktop/mpu/main
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Error at CMakeLists.txt:1 (idf_component_register):
+-- Configuring incomplete, errors occurred!
+See also "/home/tarek/Desktop/mpu/main/build/cmake.run.linux.x86_64.Local/CMakeFiles/CMakeOutput.log".
+  Unknown CMake command "idf_component_register".
+
+
+CMake Warning (dev) in CMakeLists.txt:
+  No cmake_minimum_required command is present.  A line of code such as
+
+    cmake_minimum_required(VERSION 3.22)
+
+  should be added at the top of the file.  The version specified may be lower
+  if you wish to support older CMake versions for this project.  For more
+  information run "cmake --help-policy CMP0000".
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+cmake --build . --target all
+ninja: error: loading 'build.ninja': No such file or directory
+Build complete (1 errors, 0 warnings): /home/tarek/Desktop/mpu/main/build/cmake.run.linux.x86_64.Local
+Configuring in: /home/tarek/Desktop/mpu/main/build/cmake.run.linux.x86_64.Local
+cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -G Ninja /home/tarek/Desktop/mpu/main
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Error at CMakeLists.txt:1 (idf_component_register):
+-- Configuring incomplete, errors occurred!
+See also "/home/tarek/Desktop/mpu/main/build/cmake.run.linux.x86_64.Local/CMakeFiles/CMakeOutput.log".
+  Unknown CMake command "idf_component_register".
+
+
+CMake Warning (dev) in CMakeLists.txt:
+  No cmake_minimum_required command is present.  A line of code such as
+
+    cmake_minimum_required(VERSION 3.22)
+
+  should be added at the top of the file.  The version specified may be lower
+  if you wish to support older CMake versions for this project.  For more
+  information run "cmake --help-policy CMP0000".
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+cmake --build . --target all
+ninja: error: loading 'build.ninja': No such file or directory
+Build complete (1 errors, 0 warnings): /home/tarek/Desktop/mpu/main/build/cmake.run.linux.x86_64.Local
+Configuring in: /home/tarek/Desktop/mpu/main/build/cmake.run.linux.x86_64.Local
+cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -G Ninja /home/tarek/Desktop/mpu/main
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Error at CMakeLists.txt:1 (idf_component_register):
+-- Configuring incomplete, errors occurred!
+See also "/home/tarek/Desktop/mpu/main/build/cmake.run.linux.x86_64.Local/CMakeFiles/CMakeOutput.log".
+  Unknown CMake command "idf_component_register".
+
+
+CMake Warning (dev) in CMakeLists.txt:
+  No cmake_minimum_required command is present.  A line of code such as
+
+    cmake_minimum_required(VERSION 3.22)
+
+  should be added at the top of the file.  The version specified may be lower
+  if you wish to support older CMake versions for this project.  For more
+  information run "cmake --help-policy CMP0000".
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+cmake --build . --target all
+ninja: error: loading 'build.ninja': No such file or directory
+Build complete (1 errors, 0 warnings): /home/tarek/Desktop/mpu/main/build/cmake.run.linux.x86_64.Local
+Configuring in: /home/tarek/Desktop/mpu/main/build/cmake.run.linux.x86_64.Local
+cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -G Ninja /home/tarek/Desktop/mpu/main
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring incomplete, errors occurred!
+CMake Error at CMakeLists.txt:1 (idf_component_register):
+See also "/home/tarek/Desktop/mpu/main/build/cmake.run.linux.x86_64.Local/CMakeFiles/CMakeOutput.log".
+  Unknown CMake command "idf_component_register".
+
+
+CMake Warning (dev) in CMakeLists.txt:
+  No cmake_minimum_required command is present.  A line of code such as
+
+    cmake_minimum_required(VERSION 3.22)
+
+  should be added at the top of the file.  The version specified may be lower
+  if you wish to support older CMake versions for this project.  For more
+  information run "cmake --help-policy CMP0000".
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+cmake --build . --target all
+ninja: error: loading 'build.ninja': No such file or directory
+Build complete (1 errors, 0 warnings): /home/tarek/Desktop/mpu/main/build/cmake.run.linux.x86_64.Local
+Configuring in: /home/tarek/Desktop/mpu/main/build/cmake.run.linux.x86_64.Local
+cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -G Ninja /home/tarek/Desktop/mpu/main
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring incomplete, errors occurred!
+CMake Error at CMakeLists.txt:1 (idf_component_register):
+See also "/home/tarek/Desktop/mpu/main/build/cmake.run.linux.x86_64.Local/CMakeFiles/CMakeOutput.log".
+  Unknown CMake command "idf_component_register".
+
+
+CMake Warning (dev) in CMakeLists.txt:
+  No cmake_minimum_required command is present.  A line of code such as
+
+    cmake_minimum_required(VERSION 3.22)
+
+  should be added at the top of the file.  The version specified may be lower
+  if you wish to support older CMake versions for this project.  For more
+  information run "cmake --help-policy CMP0000".
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+cmake --build . --target all
+ninja: error: loading 'build.ninja': No such file or directory
+Build complete (1 errors, 0 warnings): /home/tarek/Desktop/mpu/main/build/cmake.run.linux.x86_64.Local

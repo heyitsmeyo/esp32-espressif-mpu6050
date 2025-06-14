@@ -1,0 +1,2 @@
+source /home/tarek/Desktop/mpu/build/bootloader/gdbinit/symbols
+source /home/tarek/Desktop/mpu/build/bootloader/gdbinit/connect

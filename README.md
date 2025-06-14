@@ -1,5 +1,5 @@
 # esp32-espressif-mpu6050
-get mpu6050 sensor readins (Gyroscope and accelerometer ) with esp-idf cli-tools 
+get mpu6050 sensor readings (Gyroscope and accelerometer ) with esp-idf cli-tools 
 
 
 
